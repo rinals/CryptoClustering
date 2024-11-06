@@ -1,4 +1,4 @@
-# CryptoClusteringwith K-Means and PCA
+# CryptoClustering with K-Means and PCA
 
 ### Project Overview
 This project applies **K-Means clustering** to a cryptocurrency dataset to identify clusters of cryptocurrencies based on their price movements. To improve clustering performance, **Principal Component Analysis (PCA)** is used to reduce the dimensionality of the data, which helps remove noise and redundant features. The results are compared to assess the impact of using fewer features in the clustering process.
